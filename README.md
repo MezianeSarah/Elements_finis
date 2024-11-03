@@ -1,10 +1,10 @@
 # Projet d'Éléments Finis
 
-Bienvenue dans le projet d'analyse par éléments finis, qui fait partie de mon mémoire de fin d'études pour le Master 2 en Modélisation et Analyse Numérique à l'Université de Montpellier.
+Bienvenue dans le projet d'analyse par éléments finis, qui fait partie de  mes projets en Master 1 en Modélisation et Analyse Numérique à l'Université de Montpellier.
 
 ## Description
 
-Ce projet se concentre sur la résolution de problèmes aux limites en utilisant la méthode des éléments finis (FEM). Il explore l'application de cette méthode pour discrétiser des équations différentielles sur l'intervalle ouvert \( ]0,1[ \) et évaluer l'impact du maillage sur la précision des solutions obtenues.
+Ce projet se concentre sur la résolution de problèmes aux limites en utilisant la méthode des éléments finis, il explore l'application de cette méthode pour discrétiser des équations différentielles sur l'intervalle ouvert \( ]0,1[ \) et évaluer l'impact du maillage sur la précision des solutions obtenues.
 
 ## Contenu du Repository
 
